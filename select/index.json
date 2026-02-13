@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キャラメル・ソング",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-13T14:11:13.753548Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャラメル・ソング",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_キャラメル・ソング_嵐.txt"
+    }
+  ]
+}
